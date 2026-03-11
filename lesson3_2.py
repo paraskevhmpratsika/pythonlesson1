@@ -7,3 +7,5 @@ print(f"Το μήνυμα με κεφαλαία: {message.upper()}")
 
 has_python = "python" in message
 print(f"Υπάρχει η λέξη 'python' στο μήνυμα; {has_python}")
+print("Hello")
+
